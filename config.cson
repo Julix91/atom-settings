@@ -1,0 +1,47 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "tab always, enter when suggestion explicitly selected"
+  autoprefixer: {}
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 22
+    invisibles: {}
+    preferredLineLength: 120
+    showIndentGuide: true
+    showInvisibles: true
+    softTabs: false
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabLength: 4
+    tabType: "hard"
+  "exception-reporting":
+    userId: "d872801f-dd78-24db-afde-7f75c72aee24"
+  "git-diff":
+    showIconsInEditorGutter: true
+  "less-than-slash":
+    returnCursor: true
+  linter:
+    showErrorPanel: false
+  "open-in-browsers":
+    Opera: false
+    Safari: false
+    browsers: [
+      "IE"
+      "Edge"
+      "Chrome"
+      "Firefox"
+      "BrowserPlus"
+    ]
+  "sass-autocompile":
+    compileCompressed: false
+    compileExpanded: true
+    compileOnSave: false
+    directlyJumpToError: true
+    indentType: "Tab"
+    indentWidth: 1
+  "trailing-spaces":
+    enableForCursorLines: true
+  welcome:
+    showOnStartup: false
